@@ -1,0 +1,619 @@
+{
+  "_meta": {
+    "source": "Representative building-materials catalogue (manhole covers & drainage).",
+    "note": "A fixed dataset for the cohort project. Product specs are generic building-materials facts; prices are REPRESENTATIVE (INR), not a live price list. No brand identity — the copilot answers about 'a building-materials manufacturer'.",
+    "material": "Poly Resin Glass Fibre with reinforced iron bars",
+    "branches": [
+      "Branch-CBE",
+      "Branch-KRR",
+      "Branch-MDU",
+      "Branch-TRY",
+      "Branch-SLM",
+      "Branch-VLR",
+      "Branch-TVL"
+    ],
+    "size_unit": "inch",
+    "price_note": "representative"
+  },
+  "skus": [
+    {
+      "code": "MHC 102",
+      "category": "square",
+      "size": "12x12",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 1200,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "30 x 30",
+      "cover_size_cm": "25 x 25",
+      "frame_thickness_cm": "4.3",
+      "cover_thickness_cm": "3",
+      "weight_kg": "5.5"
+    },
+    {
+      "code": "MHC 106",
+      "category": "square",
+      "size": "16x16",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 1475,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "40 x 40",
+      "cover_size_cm": "30 x 30",
+      "frame_thickness_cm": "4.2",
+      "cover_thickness_cm": "3",
+      "weight_kg": "7.5"
+    },
+    {
+      "code": "MHC 109",
+      "category": "square",
+      "size": "18x18",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 2400,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "45 x 45",
+      "cover_size_cm": "40 x 40",
+      "frame_thickness_cm": "5.6",
+      "cover_thickness_cm": "3.8",
+      "weight_kg": "12.5"
+    },
+    {
+      "code": "MHC 110",
+      "category": "square",
+      "size": "18x18",
+      "load_ton": 5,
+      "colours": [
+        "beige"
+      ],
+      "handle": "SS304",
+      "mrp": 2400,
+      "image_ref": "products/manhole_square_beige.png",
+      "frame_size_cm": "45 x 45",
+      "cover_size_cm": "40 x 40",
+      "frame_thickness_cm": "5.6",
+      "cover_thickness_cm": "3.8",
+      "weight_kg": "12.5"
+    },
+    {
+      "code": "MHC 111",
+      "category": "square",
+      "size": "18x18",
+      "load_ton": 5,
+      "colours": [
+        "terracotta"
+      ],
+      "handle": "SS304",
+      "mrp": 2400,
+      "image_ref": "products/manhole_terracotta.png",
+      "frame_size_cm": "45 x 45",
+      "cover_size_cm": "40 x 40",
+      "frame_thickness_cm": "5.6",
+      "cover_thickness_cm": "3.8",
+      "weight_kg": "12.5"
+    },
+    {
+      "code": "MHC 149",
+      "category": "square",
+      "size": "22x22",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 3550,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "55 x 55",
+      "cover_size_cm": "45 x 45",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "20"
+    },
+    {
+      "code": "MHC 150",
+      "category": "square",
+      "size": "22x22",
+      "load_ton": 5,
+      "colours": [
+        "terracotta"
+      ],
+      "handle": "SS304",
+      "mrp": 3550,
+      "image_ref": "products/manhole_terracotta.png",
+      "frame_size_cm": "55 x 55",
+      "cover_size_cm": "45 x 45",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "20"
+    },
+    {
+      "code": "MHC 115",
+      "category": "square",
+      "size": "24x24",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 4170,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "60 x 60",
+      "cover_size_cm": "50 x 50",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "24"
+    },
+    {
+      "code": "MHC 117",
+      "category": "square",
+      "size": "24x24",
+      "load_ton": 5,
+      "colours": [
+        "beige"
+      ],
+      "handle": "SS304",
+      "mrp": 4170,
+      "image_ref": "products/manhole_square_beige.png",
+      "frame_size_cm": "60 x 60",
+      "cover_size_cm": "50 x 50",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "24"
+    },
+    {
+      "code": "MHC 119",
+      "category": "square",
+      "size": "24x24",
+      "load_ton": 5,
+      "colours": [
+        "terracotta"
+      ],
+      "handle": "SS304",
+      "mrp": 4170,
+      "image_ref": "products/manhole_terracotta.png",
+      "frame_size_cm": "60 x 60",
+      "cover_size_cm": "50 x 50",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "24"
+    },
+    {
+      "code": "MHC 124",
+      "category": "square",
+      "size": "28x28",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 4975,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "70 x 70",
+      "cover_size_cm": "60 x 60",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "28"
+    },
+    {
+      "code": "MHC 126",
+      "category": "square",
+      "size": "28x28",
+      "load_ton": 5,
+      "colours": [
+        "terracotta"
+      ],
+      "handle": "SS304",
+      "mrp": 4975,
+      "image_ref": "products/manhole_terracotta.png",
+      "frame_size_cm": "70 x 70",
+      "cover_size_cm": "60 x 60",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "28"
+    },
+    {
+      "code": "MHC 130",
+      "category": "square",
+      "size": "31x31",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 8000,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "80 x 80",
+      "cover_size_cm": "70 x 70",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "3.8",
+      "weight_kg": "38"
+    },
+    {
+      "code": "MHC 133",
+      "category": "square",
+      "size": "35x35",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 9850,
+      "image_ref": "products/manhole_square_grey.png",
+      "frame_size_cm": "90 x 90",
+      "cover_size_cm": "80 x 80",
+      "frame_thickness_cm": "6",
+      "cover_thickness_cm": "4",
+      "weight_kg": "46"
+    },
+    {
+      "code": "MHC 151",
+      "category": "square_extra_heavy",
+      "size": "24x24",
+      "load_ton": 25,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 7750,
+      "image_ref": "products/manhole_square_extra_heavy.png",
+      "frame_size_cm": "60 x 60",
+      "cover_size_cm": "50 x 50",
+      "frame_thickness_cm": "7",
+      "cover_thickness_cm": "5",
+      "weight_kg": "33",
+      "extra_heavy": true
+    },
+    {
+      "code": "MHC 152",
+      "category": "square_extra_heavy",
+      "size": "27x27",
+      "load_ton": 25,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 9350,
+      "frame_size_cm": "70 x 70",
+      "cover_size_cm": "60 x 60",
+      "frame_thickness_cm": "7",
+      "cover_thickness_cm": "5",
+      "weight_kg": "37",
+      "image_ref": "products/manhole_square_extra_heavy.png",
+      "extra_heavy": true
+    },
+    {
+      "code": "MHC 147",
+      "category": "round",
+      "size": "27in",
+      "load_ton": 100,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS lifting key",
+      "mrp": 9250,
+      "image_ref": "products/manhole_round.png",
+      "frame_size_cm": "69 x 69",
+      "cover_size_cm": "60 x 60",
+      "frame_thickness_cm": "8",
+      "cover_thickness_cm": "6",
+      "weight_kg": "45",
+      "extra_heavy": true
+    },
+    {
+      "code": "MHC 148",
+      "category": "round",
+      "size": "32in",
+      "load_ton": 50,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS lifting key",
+      "mrp": 11250,
+      "image_ref": "products/manhole_round.png",
+      "frame_size_cm": "81 x 81",
+      "cover_size_cm": "70 x 70",
+      "frame_thickness_cm": "10",
+      "cover_thickness_cm": "7",
+      "weight_kg": "60",
+      "extra_heavy": true
+    },
+    {
+      "code": "MHCR 101",
+      "category": "rectangular",
+      "size": "22x14",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 3100,
+      "image_ref": "products/manhole_rect.png",
+      "frame_size_cm": "56 x 36",
+      "cover_size_cm": "50 x 30",
+      "frame_thickness_cm": "5.5",
+      "cover_thickness_cm": "4",
+      "weight_kg": "11"
+    },
+    {
+      "code": "MHCR 102",
+      "category": "rectangular",
+      "size": "26x19",
+      "load_ton": 5,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 3700,
+      "image_ref": "products/manhole_rect.png",
+      "frame_size_cm": "67 x 47",
+      "cover_size_cm": "60 x 40",
+      "frame_thickness_cm": "5",
+      "cover_thickness_cm": "4",
+      "weight_kg": "16.5"
+    },
+    {
+      "code": "MHCR 104",
+      "category": "rectangular",
+      "size": "33x21",
+      "load_ton": 25,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS304",
+      "mrp": 8000,
+      "image_ref": "products/manhole_rect.png",
+      "frame_size_cm": "83 x 53",
+      "cover_size_cm": "75 x 45",
+      "frame_thickness_cm": "7",
+      "cover_thickness_cm": "5",
+      "weight_kg": "36",
+      "extra_heavy": true
+    },
+    {
+      "code": "MHCR 103",
+      "category": "rectangular",
+      "size": "39x27",
+      "load_ton": 15,
+      "colours": [
+        "dark grey"
+      ],
+      "handle": "SS lifting key",
+      "mrp": 16600,
+      "image_ref": "products/manhole_rect.png",
+      "frame_size_cm": "98 x 68",
+      "cover_size_cm": "90 x 60",
+      "frame_thickness_cm": "7",
+      "cover_thickness_cm": "5",
+      "weight_kg": "51",
+      "extra_heavy": true
+    },
+    {
+      "code": "MDC 101",
+      "category": "drain_cover",
+      "size": "12x12",
+      "load_ton": 5,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 1275,
+      "image_ref": "products/drain_cover.png",
+      "frame_size_cm": "30 x 30",
+      "cover_size_cm": "25 x 25",
+      "frame_thickness_cm": "4.3",
+      "cover_thickness_cm": "3",
+      "weight_kg": "5.5"
+    },
+    {
+      "code": "MDC 103",
+      "category": "drain_cover",
+      "size": "16x16",
+      "load_ton": 5,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 1765,
+      "image_ref": "products/drain_cover.png",
+      "frame_size_cm": "40 x 40",
+      "cover_size_cm": "30 x 30",
+      "frame_thickness_cm": "4.5",
+      "cover_thickness_cm": "3",
+      "weight_kg": "7.5"
+    },
+    {
+      "code": "MDC 105",
+      "category": "drain_cover",
+      "size": "20x12",
+      "load_ton": 5,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 1785,
+      "image_ref": "products/drain_cover.png",
+      "frame_size_cm": "without frame",
+      "cover_size_cm": "50 x 30",
+      "frame_thickness_cm": "without frame",
+      "cover_thickness_cm": "3",
+      "weight_kg": "5.5"
+    },
+    {
+      "code": "MDC 106",
+      "category": "drain_cover",
+      "size": "22x14",
+      "load_ton": 5,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 2350,
+      "image_ref": "products/drain_cover.png",
+      "frame_size_cm": "56 x 36",
+      "cover_size_cm": "50 x 30",
+      "frame_thickness_cm": "4",
+      "cover_thickness_cm": "3",
+      "weight_kg": "8.5"
+    },
+    {
+      "code": "MDC 109",
+      "category": "drain_cover",
+      "size": "24x16",
+      "load_ton": 25,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 3650,
+      "image_ref": "products/drain_cover.png",
+      "frame_size_cm": "without frame",
+      "cover_size_cm": "60 x 40",
+      "frame_thickness_cm": "without frame",
+      "cover_thickness_cm": "4",
+      "weight_kg": "21",
+      "extra_heavy": true
+    },
+    {
+      "code": "MDC 104",
+      "category": "drain_cover",
+      "size": "26x19",
+      "load_ton": 25,
+      "colours": [
+        "black"
+      ],
+      "handle": null,
+      "mrp": 5600,
+      "image_ref": "products/drain_cover.png",
+      "frame_size_cm": "68 x 48",
+      "cover_size_cm": "60 x 40",
+      "frame_thickness_cm": "5.5",
+      "cover_thickness_cm": "4",
+      "weight_kg": "20",
+      "extra_heavy": true
+    },
+    {
+      "code": "DD 101",
+      "category": "drain_ditch",
+      "size": "39x8x8",
+      "load_ton": 2,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 3700,
+      "image_ref": "products/drain_ditch.png",
+      "frame_size_cm": "100 x 20 x 20",
+      "cover_size_cm": "50 x 17 x 2",
+      "frame_thickness_cm": "5",
+      "cover_thickness_cm": "2",
+      "weight_kg": "16"
+    },
+    {
+      "code": "DD 102",
+      "category": "drain_ditch",
+      "size": "39x10x10",
+      "load_ton": 2,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 4100,
+      "image_ref": "products/drain_ditch.png",
+      "frame_size_cm": "100 x 25 x 25",
+      "cover_size_cm": "50 x 22 x 2",
+      "frame_thickness_cm": "5.5",
+      "cover_thickness_cm": "2",
+      "weight_kg": "20"
+    },
+    {
+      "code": "DD 103",
+      "category": "drain_ditch",
+      "size": "39x12x10",
+      "load_ton": 2,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 6200,
+      "image_ref": "products/drain_ditch.png",
+      "frame_size_cm": "100 x 30 x 25",
+      "cover_size_cm": "50 x 27 x 2",
+      "frame_thickness_cm": "5.5",
+      "cover_thickness_cm": "2",
+      "weight_kg": "25"
+    },
+    {
+      "code": "DD 105",
+      "category": "drain_ditch",
+      "size": "39x14x12",
+      "load_ton": 2,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 7100,
+      "image_ref": "products/drain_ditch.png",
+      "frame_size_cm": "100 x 35 x 30",
+      "cover_size_cm": "50 x 32.5 x 3",
+      "frame_thickness_cm": "5.5",
+      "cover_thickness_cm": "3",
+      "weight_kg": "36"
+    },
+    {
+      "code": "DD 104",
+      "category": "drain_ditch",
+      "size": "39x18x16",
+      "load_ton": 2,
+      "colours": [
+        "grey"
+      ],
+      "handle": null,
+      "mrp": 7900,
+      "image_ref": "products/drain_ditch.png",
+      "frame_size_cm": "100 x 46 x 40",
+      "cover_size_cm": "50 x 44 x 3",
+      "frame_thickness_cm": "5.5",
+      "cover_thickness_cm": "3",
+      "weight_kg": "31"
+    },
+    {
+      "code": "TG 102",
+      "category": "tree_guard",
+      "size": "31x31",
+      "load_ton": 1,
+      "colours": [
+        "green"
+      ],
+      "handle": null,
+      "mrp": 2700,
+      "image_ref": "products/tree_guard.png",
+      "frame_size_cm": "80 x 80 x 3",
+      "cover_size_cm": "inner dia 16 inch",
+      "weight_kg": "11.3"
+    },
+    {
+      "code": "TG 101",
+      "category": "tree_guard",
+      "size": "47x47",
+      "load_ton": 1,
+      "colours": [
+        "green"
+      ],
+      "handle": null,
+      "mrp": 5900,
+      "image_ref": "products/tree_guard.png",
+      "frame_size_cm": "120 x 120 x 3",
+      "cover_size_cm": "inner dia 24 inch",
+      "weight_kg": "27.8"
+    }
+  ]
+}

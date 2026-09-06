@@ -4,7 +4,7 @@ The 12-week project: a grounded, catalogue-aware **Sales Copilot** for a buildin
 manufacturer. Full scope, architecture and the weekly plan:
 **https://vtu-internship-proposal.vercel.app/project/**
 
-This folder is the **Sprint-1 starter pack** — everything you need to begin in week 3.
+This folder is the **Sprint-1 guiding material**. The runnable **starter repo** students clone is **https://github.com/jivamruta-cohort/sales-copilot-starter** — begin there.
 
 ```
 project/

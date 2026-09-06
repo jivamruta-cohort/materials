@@ -20,7 +20,9 @@ If `orientation/apis-llms` felt new, do it first — this week assumes those fou
 ## 2 · Get it running (in order — each step must pass before the next)
 
 ```bash
-# a. clone the starter repo your mentor gives you, then:
+# a. clone the starter repo, then:
+git clone https://github.com/jivamruta-cohort/sales-copilot-starter
+cd sales-copilot-starter
 python -m venv .venv && . .venv/bin/activate     # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
 

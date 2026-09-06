@@ -24,7 +24,7 @@ def to_slug(text: str) -> str:
     """Lowercase; every run of characters that is not a letter or digit becomes ONE hyphen;
     no hyphen at either end.
 
-    'Brake Pad (Front)' -> 'brake-pad-front' · '  Über-Größe!! ' -> keep it simple: anything
+    'Angle Valve (Brass)' -> 'angle-valve-brass' · '  Über-Größe!! ' -> keep it simple: anything
     non-ASCII counts as not-a-letter here -> 'ber-gr-e'. Empty in, empty out.
     """
     raise NotImplementedError

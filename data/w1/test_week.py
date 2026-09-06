@@ -16,8 +16,8 @@ def test_normalize_ws_whitespace_only_is_empty() -> None:
 
 
 def test_to_slug_basics() -> None:
-    assert to_slug("Brake Pad (Front)") == "brake-pad-front"
-    assert to_slug("BP--2043!!") == "bp-2043"
+    assert to_slug("Angle Valve (Brass)") == "angle-valve-brass"
+    assert to_slug("AV--2043!!") == "av-2043"
 
 
 def test_to_slug_no_edge_hyphens_and_empty() -> None:

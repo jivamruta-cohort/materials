@@ -31,6 +31,12 @@ promise, and this is where it happens.
 - **Stuck for more than 30 minutes? Ask in #help-mentor.** Asking a precise question is a
   skill we are actively happy to see.
 
+## Before the modules — orientation
+
+**`orientation/apis-llms/`** — a bridge to do in week 2, before the project: what an API call and
+an LLM call look like, and what RAG / grounding / refusal mean. Not scored — it removes the cold
+start for week 3.
+
 ## The modules
 
 | Area | Week 1 | Week 2 |

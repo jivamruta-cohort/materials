@@ -34,8 +34,8 @@ def token_overlap(a: str, b: str) -> float:
     """How alike two texts are, 0.0 to 1.0: shared distinct words / total distinct words
     (case-insensitive; words split on whitespace). Both empty -> 0.0.
 
-    token_overlap('brake pad', 'PAD brake') -> 1.0
-    token_overlap('brake pad', 'brake disc') -> 1/3
+    token_overlap('angle valve', 'VALVE angle') -> 1.0
+    token_overlap('angle valve', 'angle tap') -> 1/3
     """
     raise NotImplementedError
 

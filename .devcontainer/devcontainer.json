@@ -1,0 +1,11 @@
+{
+  "name": "Cohort 1 — study",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install pytest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"],
+      "settings": { "python.testing.pytestEnabled": true }
+    }
+  }
+}
